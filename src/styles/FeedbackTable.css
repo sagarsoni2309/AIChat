@@ -1,0 +1,26 @@
+.feedback-table {
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .feedback-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .feedback-table th, .feedback-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .feedback-table th {
+    background-color: #333;
+    color: white;
+  }
+  
+  .feedback-table select {
+    padding: 5px;
+    margin-left: 10px;
+  }

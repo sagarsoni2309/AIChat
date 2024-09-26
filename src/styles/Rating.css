@@ -1,0 +1,20 @@
+.rating {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .star {
+    font-size: 2em;
+    color: gray;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .star.filled {
+    color: gold;
+  }
+  
+  .star:hover {
+    color: gold;
+  }
